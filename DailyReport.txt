@@ -1,0 +1,8 @@
+=== DAILY REPORT ===
+
+Scheduled Appointments:
+Appointment at 9:00 with K P ID Number = 1 - Car: maker='M', model='M', plateNumber='123'
+
+Service Reports:
+
+Diagnostic Reports:
